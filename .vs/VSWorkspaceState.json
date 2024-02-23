@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Infra",
+    "\\Infra\\Services",
+    "\\ViewModels"
+  ],
+  "SelectedNode": "\\Infra\\Services\\MailService.cs",
+  "PreviewInSolutionExplorer": false
+}

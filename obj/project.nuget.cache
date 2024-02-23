@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qwi73gAEhGYapf9Qmb4uJ60cF7BLcRWUKN33EZEbUps3QavHZDi15QpOBmZ+pA0qMJ9ilZd3HFVQZhGzp9Okpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ejuliao\\source\\repos\\Mail\\Mail.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ejuliao\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\ejuliao\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ejuliao\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\ejuliao\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\ejuliao\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\ejuliao\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
